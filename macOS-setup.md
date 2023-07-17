@@ -13,3 +13,5 @@
 * Google Chrome
 * Microsoft Edge
 * WhatsApp
+* Elmedia Player
+* Visual Studio Code
