@@ -15,3 +15,12 @@
 * WhatsApp
 * Elmedia Player
 * Visual Studio Code
+
+## Applications Settings
+
+### Text Edit
+* Format -> Plain Text
+* Window Size -> 135 x 45
+* Options **[uncheck]**
+  - [ ] Check Spelling as you type
+  - [ ] Correct Spelling automatically
